@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+tr, th, td{
+	text-align:center;
+	border:1px solid black;
+}
